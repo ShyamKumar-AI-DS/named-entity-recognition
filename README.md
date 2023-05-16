@@ -176,8 +176,7 @@ for w, true, pred in zip(X_test[i], y_true, p[0]):
 ```
 ## OUTPUT
 
-| Training Loss, Validation Loss Vs Iteration             | Accuracy, Validation Accuracy Vs Iteration                   |               
-| :------------------------------------------------------:| :-----------------------------------------------------------:|
+| Training Loss, Validation Loss Vs Iteration & Accuracy, Validation Accuracy Vs Iteration
 ![dl1](https://github.com/ShyamKumar-AI-DS/named-entity-recognition/assets/93427182/1addf544-f459-479e-ad23-0c3acc12f3fe)
 
 
