@@ -40,7 +40,7 @@ We compile the model to fit the train sets and validation sets.
 
 ## PROGRAM
 ```
-NAME : Shyam Kumar A </br>
+NAME : Shyam Kumar A 
 REG N0 :212221230098
 ```
 ### Libraries
